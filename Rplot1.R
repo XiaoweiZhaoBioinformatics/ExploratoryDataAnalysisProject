@@ -1,3 +1,4 @@
+## Plot 1
 ## load the data set
 data <- read.table("household_power_consumption.txt", header = TRUE, sep = ";",
                    na.strings = "?", stringsAsFactors = FALSE)
